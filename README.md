@@ -12,7 +12,7 @@ On the Ubidot page create a new datasource as well as all variables to be record
 * The account token.
 * All varible ID tokens.
 
-To map out all Vera service identifiers refer to http://<Vera IP address>:3480/data_request?id=status&output_format=xml.
+To map out all Vera service identifiers refer to http://[Vera IP address]:3480/data_request?id=status&output_format=xml.
 Alternatively also refer to http://wiki.micasaverde.com/index.php/Luup_UPnP_Variables_and_Actions.
 
 Populate the Ubidots scene script with:
